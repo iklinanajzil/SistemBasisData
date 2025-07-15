@@ -5,7 +5,7 @@ import re
 DB_HOST = "localhost"
 DB_NAME = "Amanah_Rent__Bike_Bali"
 DB_USER = "postgres"
-DB_PASSWORD = "242410101001"
+DB_PASSWORD = "001"
 DB_PORT = "5432"
 
 conn = None
